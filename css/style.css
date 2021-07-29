@@ -4,3 +4,26 @@ body{
 h1{
     font-weight: 600;
 }
+.cbr-grayscale{
+        filter: grayscale(100%);
+}
+.cbr-fs-fw{
+    font-weight: 500;
+    font-size: 20px;
+}
+.cbr-background{
+    background-color: #264653;
+}
+.cbr-btn-color{
+    background-color: #E76F51;
+    color: white;
+}
+.cbr-custom-color{
+    color: #E76F51;
+}
+.cbr-custom-margin-top{
+    margin-top: 150px;
+}
+.cbr-star-color{
+    color: #E77C40;
+}
